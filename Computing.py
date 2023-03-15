@@ -1,7 +1,3 @@
-"""
-This is the final assignment of introduction to algorithm.
-"""
-
 import sys
 
 try:
